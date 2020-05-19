@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 
 ## TEST new section added 
 This is 3rd time I'm entering and editing this file
+
+This is final version V0.5
