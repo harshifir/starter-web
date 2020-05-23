@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+a.g @gmail.com
     <name> -- <role> -- <twitter>
 
 # THANKS
